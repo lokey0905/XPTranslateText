@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xposed_scope">
+        <item>com.evermorelabs.aerilate</item>
+        <item>net.pgtools.gps_wrapper</item>
+    </string-array>
+</resources>

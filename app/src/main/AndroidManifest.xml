@@ -31,6 +31,10 @@
             android:name="xposedsharedprefs"
             android:value="true" />
 
+        <meta-data
+            android:name="xposedscope"
+            android:resource="@array/xposed_scope" />
+
         <activity
             android:name=".SettingsActivity"
             android:exported="true"

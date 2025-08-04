@@ -37,6 +37,7 @@
             android:title="@string/custom_api_url_title"
             android:summary="@string/custom_api_url_summary"
             android:inputType="textUri"
+            android:defaultValue="https://gist.githubusercontent.com/lokey0905/1a1d4dd63b9da05e27a2dbf77d6fed1d/raw/9396d6a1c21600929af745cfab7e201776ac853d/XPTranslateTextApi.json"
             android:selectAllOnFocus="true" />
 
         <Preference
